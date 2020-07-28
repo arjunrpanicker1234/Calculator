@@ -14,12 +14,13 @@
     margin-left: 50px;
     margin-top: 40px;
     pointer-events: none;
+    font-size: 30px;
 }
 #btn{
     width: 70px;
     height: 60px;
-    margin-left: 70px;
-    margin-top: 20px;
+    margin-left: 60px;
+    margin-top: 25px;
     display: inline-block;
     padding: 15px 25px;
     font-size: 24px;
